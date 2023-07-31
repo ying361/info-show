@@ -1,11 +1,11 @@
 <template>
   <div class="header-menu">
-    <!-- <el-menu mode="horizontal">
+    <el-menu mode="horizontal">
       <el-menu-item>菜单一</el-menu-item>
       <el-menu-item>菜单二</el-menu-item>
       <el-menu-item>菜单三</el-menu-item>
-    </el-menu> -->
-    <div class="sj">111</div>
+    </el-menu>
+    <!-- <div class="sj">111</div> -->
   </div>
 </template>
 
